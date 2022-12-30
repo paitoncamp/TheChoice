@@ -8,15 +8,15 @@
         }
     ],
     "require": {
-        "php": ">=7.1",
+        "php": ">=8.0",
         "chriskonnertz/string-calc": "^1.0",
-        "symfony/yaml": "^4.3",
+        "symfony/yaml": "^5.0",
         "ext-json": "*",
         "ext-mbstring": "*"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master",
-        "phpunit/phpunit": "7.0.0",
+        "phpunit/phpunit": "^8.0",
         "psr/container": "1.0.0"
     },
     "autoload": {
